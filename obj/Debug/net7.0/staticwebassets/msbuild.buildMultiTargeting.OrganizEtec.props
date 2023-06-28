@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OrganizEtec.props" />
+</Project>
